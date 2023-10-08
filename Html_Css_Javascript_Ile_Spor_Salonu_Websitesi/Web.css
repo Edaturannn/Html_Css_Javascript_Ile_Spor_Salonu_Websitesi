@@ -1,0 +1,235 @@
+#menu{
+    background-color:black;
+}
+#link {
+    color: antiquewhite;
+    font-size: x-large;
+}
+#resim{
+    background-color:antiquewhite;
+}
+#resim1 {
+    object-fit: cover;
+    height:500px;
+    border-radius:5%;
+}
+#col1 {
+    height: 300px;
+    background-color: aqua;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#col2 {
+    height: 300px;
+    background-color: aqua;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#col3 {
+    height: 300px;
+    background-color: aqua;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#col4 {
+    height: 300px;
+    background-color: aqua;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#section {
+    background-color: #555;
+}
+#iletisim {
+    height: 400px;
+    background-color: white;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#col5 {
+    height: 200px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#col6 {
+    height: 200px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#col7 {
+    height: 200px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#col8 {
+    height: 370px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#g1 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#g2 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#g3 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+
+
+#g4 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+
+#g5 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+
+#g6 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+
+#g7 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#g8 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#g9 {
+    height: 200px;
+    width: 400px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#R1 {
+    height: 380px;
+    width: 480px;
+    margin-left: 1%;
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#alt{
+    background-color:#555;
+}
+#map {
+    border-radius: 30px;
+    border: 3px solid antiquewhite;
+    box-shadow: pink 0px 10px 15px;
+}
+#cerez{
+    height:58px;
+    background-color:aqua;
+}
+.p1 {
+    text-align: center;
+    margin-top: 10px;
+    color: #555;
+}
+#p2 {
+    text-align: center;
+    color: #555;
+}
+.baslik1{
+    color:white;
+    text-align:center;
+    margin-top:20px;
+}
+.baslik2 {
+    color:pink;
+    text-align: center;
+    margin-top: 20px;
+}
+.baslik3{
+    color:darkred;
+    text-align:center;
+    margin-top:50px;
+}
+#baslik4{
+    text-align:center;
+}
+.yazi1 {
+    color: cadetblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.address {
+    text-align: center;
+    margin-top: 20px;
+    color: #555;
+}
+.telefon {
+    text-align: center;
+    margin-top: 20px;
+    color:#555;
+}
+#yorum{
+    height:150px;
+}
+#btn1{
+    width:100px;
+}
+#btn2 {
+    width: 100px;
+}
